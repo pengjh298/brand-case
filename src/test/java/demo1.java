@@ -5,6 +5,6 @@ public class demo1 {
     public void demo1Test(){
         System.out.println("demo1--1 --- master");
         System.out.println("demo1--1 --- dev2");
-        System.out.println("haha");
+        System.out.println("pull demo");
     }
 }
