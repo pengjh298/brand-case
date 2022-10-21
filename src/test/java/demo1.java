@@ -6,5 +6,6 @@ public class demo1 {
         System.out.println("demo1--1 --- master");
         System.out.println("demo1--1 --- dev2");
         System.out.println("pull demo");
+        System.out.println("update");
     }
 }
